@@ -1,21 +1,14 @@
-# Meu Portfólio Profissional
+## Aprendizados
 
-## Sobre mim
-Sou estudante e estou desenvolvendo
-minhas habilidades profissionais e digitais.
+Durante este projeto estou aprendendo:
 
-## Objetivo
-Este repositório foi criado para aplicar
-os conhecimentos adquiridos na trilha
-GitHub Foundations.
+- Como funciona o GitHub;
+- Como organizar repositórios;
+- Como utilizar branches;
+- Como realizar commits;
+- Como trabalhar com Pull Requests.
 
-## O que estou aprendendo
-- Git e GitHub
-- Versionamento de código
-- Commits
-- Branches
-- Pull Requests
+## Desenvolvimento profissional
 
-## Objetivo profissional
-Desenvolver minhas competências e
-construir minha identidade profissional.
+Este projeto representa meu desenvolvimento
+de habilidades digitais e profissionais.
